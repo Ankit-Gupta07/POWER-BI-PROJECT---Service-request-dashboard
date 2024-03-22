@@ -2,7 +2,7 @@
 A dashboard built on POWER BI which monitors the status of service requests &amp; tracks performance metrics - this helps in assessing the overall health of a support area and make relevant decisions for the efficient operations &amp; better services.
 
 # Service Request Dashboard
-Welcome to the Service Request Dashboard repository! This Power BI project aims to provide an overview of incidents, problems, and requests, allowing stakeholders to quickly assess the overall health of a support area. Key metrics such as year-over-year trends, request status, and payments by region are included to provide a comprehensive understanding of service requests. The dashboard offers insights into service requests handled by an organization. It aggregates data from various sources to provide a centralized view of incidents, problems, and requests. The dashboard is designed to facilitate decision-making by presenting critical metrics and trends in a visually appealing format.
+Welcome to the Service Request Dashboard repository! This Power BI project aims to provide an overview of incidents, problems, and requests, allowing stakeholders to quickly assess the overall health of a support area. Key metrics such as year-over-year trends, request status, and payments by region are included to provide a comprehensive understanding of service requests. It aggregates data from various sources to provide a centralized view of incidents, problems, and requests.
 
 ## Features
 - **Line Chart**: Showing the trend of total requests per year.
