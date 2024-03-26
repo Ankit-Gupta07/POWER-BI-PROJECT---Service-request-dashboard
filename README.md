@@ -34,5 +34,5 @@ To get started, clone this repository to your local machine and open the pbix fi
 
 ## Contributions and Feedbacks
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository. I appreciate your feedback and are committed to making this dashbaord even better.
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository. I appreciate your feedback and are committed to making this dashboard even better.
 Happy analyzing!
